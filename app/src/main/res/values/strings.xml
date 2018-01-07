@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Masigit</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Karachi">Jafari</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Setting</string>
+
+
+
+    <!--<string name="app_name">Air Minum</string>-->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Aplikasi Masigit Bandung</string>
+    <string name="slide_1_desc">Dikembangkan oleh BimaBasilFanzy</string>
+
+    <string name="slide_2_title">Temukan Masjid</string>
+    <string name="slide_2_desc">Tahukah Kamu Shalat di Masjid Lebih Besar Pahalanya dibandingkan di Rumah</string>
+
+    <string name="slide_3_title">Dirikan Shalat</string>
+    <string name="slide_3_desc">Membantumu Mengenali Waktu Shalat dengan Tepat</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="login_success">login success</string>
+    <string name="login">LOGIN</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="forgot_your_password">Lupa Password?</string>
+    <string name="go">Masuk</string>
+    <string name="repeat_password">Ulang Password</string>
+    <string name="register">REGISTER</string>
+    <!-- TODO: Remove or change this placeholder text -->
+   <!-- <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>-->
+    <string-array name="jenis_kel">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--<string name="action_settings">Settings</string>
+-->
+</resources>
