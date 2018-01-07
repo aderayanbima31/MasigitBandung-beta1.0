@@ -16,7 +16,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="40dp"
             android:layout_marginTop="20dp"
-            android:text="Heading: 0.0"
+            android:text="Arah: 0.0"
             android:textColor="#ff000000"
             android:textSize="23dp"
             android:layout_marginLeft="125dp" />
