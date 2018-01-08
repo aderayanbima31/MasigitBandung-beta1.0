@@ -85,7 +85,7 @@ public class KiblatFragment extends Fragment implements SensorEventListener {
 
         float degree = Math.round(event.values[0]);
 
-        tvHeading.setText("Heading: " + Float.toString(degree) + " degrees");
+        tvHeading.setText("Arah: " + Float.toString(degree) + " °");
 
         // create a rotation animation (reverse turn degree degrees)
         RotateAnimation ra = new RotateAnimation(

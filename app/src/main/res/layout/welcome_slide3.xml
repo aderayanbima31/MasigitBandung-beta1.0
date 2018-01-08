@@ -26,6 +26,7 @@
             android:textColor="@android:color/white"
             android:textSize="@dimen/slide_title"
             android:textStyle="bold"
+            android:textAlignment="center"
             android:layout_marginTop="@dimen/margin_atas"/>
 
         <TextView
