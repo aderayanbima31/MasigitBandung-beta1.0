@@ -32,9 +32,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.TimeZone;
 
-/**
- * Created by Fanzy.
- */
+
 public class PrayTime {
 
     // ---------------------- Global Variables --------------------
