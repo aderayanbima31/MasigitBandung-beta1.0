@@ -14,9 +14,7 @@ import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
 
 
-/**
- * Created by Fanzy.
- */
+
 public class JadwalShalatFragment extends Fragment {
 
     ProgressBar pb_per;
