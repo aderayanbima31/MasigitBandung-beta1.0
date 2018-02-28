@@ -1,6 +1,8 @@
 //--------------------- Copyright Block ----------------------
 /*
 
+REFERENSI CODING
+
 PrayTime.java: Prayer Times Calculator (ver 1.0)
 Copyright (C) 2007-2010 PrayTimes.org
 
