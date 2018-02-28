@@ -64,9 +64,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * Created by Basil.
- */
+
 public class MasjidFragment extends Fragment implements LocationListener, OnMapReadyCallback,
         GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener {
 
