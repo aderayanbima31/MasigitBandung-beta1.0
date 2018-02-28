@@ -6,9 +6,7 @@ import android.os.Bundle;
 
 import com.aderayanbima31.masigit.preference.PrefManager;
 
-/**
- * Created by Basil.
- */
+
 
 public class SplashScreen extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
